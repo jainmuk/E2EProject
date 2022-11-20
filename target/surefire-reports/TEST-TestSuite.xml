@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="46.95" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="77.448" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -55,12 +55,12 @@
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.vendor" value="Eclipse Adoptium"/>
     <property name="java.vm.version" value="17.0.4.1+1"/>
-    <property name="classworlds.conf" value="K:\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf928503641511299634.tmp"/>
+    <property name="classworlds.conf" value="K:\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf4448460576853611921.tmp"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="basePageNavigation" classname="Academy.HomePage" time="14.924"/>
-  <testcase name="basePageNavigation" classname="Academy.HomePage" time="2.397"/>
-  <testcase name="validateAppTitle" classname="Academy.validateTitle" time="0.073"/>
-  <testcase name="validateAppNavBar" classname="Academy.validateNavigationBar" time="0.134"/>
+  <testcase name="basePageNavigation" classname="Academy.HomePage" time="14.321"/>
+  <testcase name="basePageNavigation" classname="Academy.HomePage" time="3.819"/>
+  <testcase name="validateAppTitle" classname="Academy.validateTitle" time="0.059"/>
+  <testcase name="validateAppNavBar" classname="Academy.validateNavigationBar" time="0.118"/>
 </testsuite>

@@ -1,8 +1,5 @@
-23:14:43.920 [main] INFO  resources.base - Restrcited User
-23:14:52.933 [main] INFO  resources.base - Non restricted user
-23:14:57.599 [main] INFO  resources.base - Driver is initialized
-23:15:12.257 [main] INFO  resources.base - Navigated to Home page
-23:15:12.419 [main] INFO  resources.base - Successfully validated Text message
-23:15:26.025 [main] INFO  resources.base - Navigation Bar is displayed
-14:21:25.909 [main] INFO  resources.base - Restrcited User
-14:21:28.340 [main] INFO  resources.base - Non restricted user
+18:00:20.203 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+18:00:28.012 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+18:00:29.358 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x7d7260b08e03226a
+18:00:44.031 [main] INFO  resources.base - Restrcited User
+18:00:48.057 [main] INFO  resources.base - Non restricted user
